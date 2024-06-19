@@ -2,11 +2,14 @@
 
 ## Expected Tools to use:
 1.python - Backend
+
 2.React - Frontend
 
 ### API
 https://www.alphavantage.co/documentation/ - fiance api
+
 https://docs.alpaca.markets/docs/trading-api - trading api
+
 https://www.marketaux.com/documentation  - news api
 
 ### Next Steps
