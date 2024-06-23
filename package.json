@@ -34,5 +34,13 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.24.7",
+    "@babel/core": "^7.24.7",
+    "@babel/preset-flow": "^7.24.7",
+    "babel-plugin-syntax-hermes-parser": "^0.22.0",
+    "create-react-component-folder": "^0.3.7",
+    "flow-bin": "^0.238.1"
   }
 }
